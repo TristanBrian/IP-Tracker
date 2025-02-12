@@ -43,7 +43,7 @@ sudo apt update && sudo apt install curl -y
 Installation
 ''bash
 ''Copy
-''git clone https://github.com/htr-tech/track-ip.git
+''git clone https://github.com/TristanBrian/IP-Tracker
 cd track-ip
 chmod +x track.sh  # Make it executable
 
@@ -78,7 +78,7 @@ MIT Licensed — Use freely, but responsibly.
 ⚠️ This tool is for educational purposes only. Always respect privacy laws and terms of service when tracking IP addresses.
 
 👨💻 Author Spotlight
-Tristan Brian , (Smartech) ()
+Tristan Brian ,TAHMID RAYAT (Smartech) ()
 Open-source wizard crafting tools that make networking fun.
 
 
